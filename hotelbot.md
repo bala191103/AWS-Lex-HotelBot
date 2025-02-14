@@ -25,11 +25,12 @@ This project is a hotel booking chatbot built using **AWS Lex**, allowing users 
 ---
 
 ## 📸 Screenshots
-### **3️ Hotel Booking Confirmation**
-images/Picture14.jpg
-images/Picture15.jpg
-images/Picture16.jpg
-images/Picture17.jpg
+
+### **Hotel Booking Confirmation**
+![Booking Step 1](images/Picture14.jpg)  
+![Booking Step 2](images/Picture15.jpg)  
+![Booking Step 3](images/Picture16.jpg)  
+![Booking Step 4](images/Picture17.jpg)  
 
 ---
 
@@ -37,3 +38,4 @@ images/Picture17.jpg
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/bala191103/AWS-Lex-HotelBot.git
+cd AWS-Lex-HotelBot
