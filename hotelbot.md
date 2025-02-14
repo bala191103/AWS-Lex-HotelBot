@@ -25,15 +25,11 @@ This project is a hotel booking chatbot built using **AWS Lex**, allowing users 
 ---
 
 ## 📸 Screenshots
-
-### **1️⃣ Chatbot Interface**
-![Chatbot UI](images/chatbot_ui.png)
-
-### **2️⃣ User Query**
-![User Query](images/user_query.png)
-
-### **3️⃣ Hotel Booking Confirmation**
-![Booking Confirmation](images/booking_confirmation.png)
+### **3️ Hotel Booking Confirmation**
+images/Picture14.jpg
+images/Picture15.jpg
+images/Picture16.jpg
+images/Picture17.jpg
 
 ---
 
